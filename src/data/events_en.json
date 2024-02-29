@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Kazan City Day",
+      "category": "Festival",
+      "date": "2024-07-25",
+      "location": "Kazan, Russia",
+      "description": "Celebrate the anniversary of Kazan's founding with parades and festivities."
+    },
+    {
+      "id": 2,
+      "name": "Kazan International Festival of Muslim Cinema",
+      "category": "Film Festival",
+      "date": "2024-03-01",
+      "location": "Kazan, Russia",
+      "description": "Enjoy screenings of films from around the Muslim world."
+    },
+    {
+      "id": 3,
+      "name": "Kazan Summer Music Festival",
+      "category": "Music Festival",
+      "date": "2024-04-10",
+      "location": "Kazan, Russia",
+      "description": "Experience concerts and performances by local and international artists."
+    },
+    {
+      "id": 4,
+      "name": "Kazan Marathon",
+      "category": "Sport Event",
+      "date": "2024-09-15",
+      "location": "Kazan, Russia",
+      "description": "Join thousands of runners in the annual Kazan Marathon."
+    },
+    {
+      "id": 5,
+      "name": "Kazan International Fireworks Festival",
+      "category": "Festival",
+      "date": "2024-08-20",
+      "location": "Kazan, Russia",
+      "description": "Experience spectacular fireworks displays from around the world."
+    },
+    {
+      "id": 6,
+      "name": "Kazan International Food Festival",
+      "category": "Food Festival",
+      "date": "2024-06-05",
+      "location": "Kazan, Russia",
+      "description": "Indulge in a variety of cuisines from different cultures at the Kazan Food Festival."
+    },
+    {
+      "id": 7,
+      "name": "Kazan Winter Wonderland",
+      "category": "Winter Festival",
+      "date": "2024-12-20",
+      "location": "Kazan, Russia",
+      "description": "Enjoy winter activities and festive decorations in Kazan's city center."
+    },
+    {
+      "id": 8,
+      "name": "Kazan International Arts and Crafts Fair",
+      "category": "Art Exhibition",
+      "date": "2024-11-05",
+      "location": "Kazan, Russia",
+      "description": "Browse and purchase unique handmade crafts and artworks at the Kazan Arts and Crafts Fair."
+    },
+    {
+      "id": 9,
+      "name": "Kazan International Dance Festival",
+      "category": "Dance Festival",
+      "date": "2024-10-01",
+      "location": "Kazan, Russia",
+      "description": "Witness captivating dance performances by talented artists from around the world."
+    },
+    {
+      "id": 10,
+      "name": "Kazan Cultural Heritage Week",
+      "category": "Cultural Event",
+      "date": "2024-05-20",
+      "location": "Kazan, Russia",
+      "description": "Explore Kazan's rich cultural heritage through exhibitions, workshops, and performances."
+    }
+  ]
+  

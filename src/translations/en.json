@@ -1,0 +1,194 @@
+{
+    "message": {
+      "welcome": "Welcome to Kazan",
+      "explore_hero": "Explore the Beauty of Kazan",
+      "explore_hero_slogan": "Discover the rich history, culture, and attractions of this vibrant city."
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About Kazan",
+        "culture": "Culture",
+        "events": "Events & Festivals",
+        "visit": "Visit Kazan"
+    },
+    "button": {
+        "hero_discover_more": "Discover More",
+        "home_explore_more": "Explore More",
+        "home__events_details": "Details",
+        "home__events_add_to_calender": "Add to Calendar",
+        "events__attend": "Attend",
+        "visit__location": "location",
+        "visit__website": "website",
+        "visit__know_more": "Know More",
+        "visit__book": "Book your stay"
+    },
+    "section": {
+        "home_featured_attractions": "Featured Attractions",
+        "home_upcoming_events": "Upcoming Events"
+    },
+    "home": {
+        "featured_attractions": [
+            {
+            "name": "Kazan Kremlin",
+            "description": "Explore the historic fortress and its stunning architecture."
+            },
+            {
+                "name": "Kul Sharif Mosque",
+                "description": "Visit one of the largest mosques in Russia."
+            },
+            {
+                "name": "Bauman Street",
+                "description": "Stroll down the bustling pedestrian street filled with shops and cafes."
+            },
+            {
+                "name": "Palace of Agriculture",
+                "description": "Exploring the Historic Dvorets Zemledel'tsev."
+            }
+        ],
+        "upcoming_events": [
+            {
+                "name": "Kazan City Day",
+                "date": "Date: July 25, 2024",
+                "description": "Celebrate the anniversary of Kazan's founding with parades and festivities."
+            },
+            {
+                "name": "Kazan International Festival of Muslim Cinema",
+                "date": "Date: Mach 01-05, 2024",
+                "description": "Enjoy screenings of films from around the Muslim world."
+            },
+            {
+                "name": "Kazan Summer Music Festival",
+                "date": "Date: April 10-15, 2024",
+                "description": "Experience concerts and performances by local and international artists."
+            }
+        ]
+    },
+    "about": {
+        "introduction": {
+            "title": "Introduction",
+            "text": "Welcome to Kazan, a city steeped in history, culture, and tradition. Situated on the banks of the majestic Volga River in western Russia, Kazan is a melting pot of Eastern and Western influences, where the past meets the present in a harmonious blend of old-world charm and modernity.  As the capital city of the Republic of Tatarstan, Kazan holds a special place in the hearts of its residents and visitors alike. With a history dating back over a thousand years, Kazan has witnessed the rise and fall of empires, the clash of civilizations, and the triumph of the human spirit. The city's emblem, a symbol of its identity and resilience, reflects its rich cultural heritage and diverse population. From the majestic minarets of the Kul Sharif Mosque to the towering spires of the Kazan Kremlin, Kazan's architectural landmarks stand as testaments to its storied past and enduring legacy. But Kazan is more than just its history; it is a city of contrasts and contradictions, where ancient traditions coexist with modern innovations, and where East meets West in a vibrant tapestry of colors, flavors, and sounds. Whether exploring the bustling streets of the old town or marveling at the futuristic skyline of the new city, visitors to Kazan are sure to be captivated by its unique blend of old-world charm and contemporary allure. Join us on a journey through Kazan's storied streets and discover the hidden gems and treasures that await around every corner. From the bustling markets of Bauman Street to the tranquil shores of Lake Kaban, Kazan offers something for everyone, whether you're a history buff, a foodie, or an adventure seeker."
+        },
+        "geography": {
+            "title": "Geography",
+            "text": "Situated in the western part of Russia, Kazan is nestled along the scenic banks of the Volga River, the longest river in Europe. The city's picturesque landscape is characterized by rolling hills, lush forests, and serene lakes, making it an ideal destination for nature lovers. Additionally, Kazan's strategic location at the crossroads of Europe and Asia has contributed to its historical importance as a trading hub and cultural center. Kazan has a humid continental climate with long, cold winters (colder than Moscow), and warm, sunny summers. As a result of its far inland position, summers are extremely warm for its latitude and winters are quite cold compared to areas further west in Europe."
+        },
+        "history": {
+            "title": "History of Kazan",
+            "text": "The 16th century marked a pivotal moment in Kazan's history when it fell to the forces of Ivan the Terrible, Tsar of Russia, after a prolonged siege. The fall of Kazan in 1552 brought an end to Tatar independence and ushered in a new era of Russian rule. The conquest of Kazan was a significant milestone in the expansion of the Russian Empire and solidified Moscow's dominance over the Volga region.Despite the trauma of conquest, Kazan continued to thrive under Russian rule, becoming a vital center of trade, culture, and religion. The city's diverse population, consisting of Tatars, Russians, and other ethnic groups, contributed to its vibrant cultural tapestry, marked by a fusion of Eastern and Western influences. Throughout the centuries, Kazan remained a beacon of tolerance and coexistence, with mosques, churches, and synagogues standing side by side as symbols of religious harmony. In the 20th century, Kazan experienced rapid industrialization and urbanization, transforming into a modern metropolis while preserving its historical charm. During World War II, Kazan played a crucial role as a major industrial center, contributing to the Soviet war effort and earning the title of \"Hero City\" for its resilience and bravery in the face of adversity.Today, Kazan stands as a testament to its rich history and cultural heritage, with its iconic landmarks, such as the Kazan Kremlin and Kul Sharif Mosque, serving as reminders of its storied past. The city's thriving economy, vibrant arts scene, and diverse population continue to make it a dynamic and fascinating destination for visitors from around the world."
+        },
+        "architecture": {
+            "title": "Architecture",
+            "text": "Kazan's architectural landscape is a reflection of its diverse cultural heritage, blending elements of Russian, Tatar, and Islamic architecture. The iconic Kazan Kremlin, a UNESCO World Heritage Site, stands as a symbol of the city's historical significance, with its imposing walls and stunning cathedrals dating back to the 16th century. Additionally, Kazan is home to numerous mosques, churches, and other architectural marvels, each telling a unique story of the city's past and present."
+        }
+    },
+    "culture": {
+        "local_cuisine": {
+          "title": "Local Cuisine",
+          "text": "Kazan's cuisine is a delightful blend of Russian and Tatar flavors, reflecting the city's multicultural heritage. One of the most iconic dishes is 'chak-chak', a sweet pastry made of dough balls fried and dipped in honey syrup. Another popular dish is 'plov', a hearty rice pilaf with tender meat and fragrant spices. Don't miss out on trying 'belyash', a savory meat pie, and 'elesh', a traditional Tatar dish similar to dumplings filled with meat or potatoes."
+        },
+        "traditional_costumes": {
+            "title": "Traditional Folk Costumes",
+            "text": "Traditional folk costumes in Kazan are characterized by their diversity and beauty, reflecting a rich cultural heritage and long history. One of the most prominent styles of folk attire in Kazan is the 'kupla', a traditional women's garment consisting of a single piece embroidered with vibrant colors and intricate details. For men, folk costumes are known for their variety and bright colors, with many beautiful ornaments and embroideries that reflect traditional Tatar culture."
+          },
+        "traditions": {
+          "title": "Traditional Customs",
+          "text": "Kazan is rich in traditional customs that reflect its diverse cultural heritage. One of the most significant customs is the celebration of 'Sabantuy', a Tatar summer festival that marks the end of spring field work. During Sabantuy, people gather to enjoy traditional Tatar music, dance, sports competitions, and delicious food. Another important custom is 'Shashlik', a popular outdoor barbecue tradition where friends and family gather to grill meat skewers over an open fire."
+        },
+        "special_rituals": {
+          "title": "Special Rituals and Beliefs",
+          "text": "Kazan is home to various special rituals and beliefs that have been passed down through generations. One such ritual is the 'Tatar wedding ceremony', which involves colorful celebrations, traditional music, and elaborate rituals that symbolize the union of two families. Additionally, Kazan has a strong tradition of hospitality, with guests often being greeted with 'bread and salt', a symbol of welcome and friendship. Another belief is in the 'evil eye', a superstition believed to bring bad luck, which is countered by various protective talismans and rituals."
+        }
+    },
+    "visit": {
+        "section": {
+            "attractions": {
+                "title":"Tourist Attractions & Local Cafes",
+                "description": "Must Visit Places, Attractions, Sightseeings, and Local Cafe",
+                "items": [
+                    {
+                        "name": "Kazan Kremlin",
+                        "description": "A World Heritage Site, the soul of Kazan, and its main historical monument. The fortress is a treasure trove of history and an unusual complex where mosques and churches coexist to create a truly unique touristic site.",
+                        "category": "attraction",
+                        "location": "https://www.google.com/maps/place/Kazan+Kremlin/@55.7993592,49.103424,17z/data=!3m1!4b1!4m6!3m5!1s0x415ead219941ae53:0x5b0126a895b9ce7d!8m2!3d55.7993562!4d49.1059989!16zL20vMDZxcGo5?entry=ttu",
+                        "image": "attractions/kazan_kremlin.jpg",
+                        "featured": true
+                    },
+                    {
+                        "name": "Malabar",
+                        "description": "Malabar The Authentic Tatar Cuisine",
+                        "category": "Traditional Cuisin",
+                        "location": "https://www.google.com/maps/place/Malabar/@55.799664,49.1255201,17z/data=!3m1!4b1!4m6!3m5!1s0x415ead6ae9516ff1:0x620e269c28412276!8m2!3d55.799661!4d49.128095!16s%2Fg%2F119vfntm8?entry=ttu",
+                        "image": "attractions/malabar.jpg",
+                        "featured": false
+                    },
+                    {
+                        "name": "Temple of All Religions",
+                        "description": "The only place in the world where you can marvel at the churches, the mosques, the synagogue and the Buddhist temple harmoniously blend.",
+                        "category": "Sightseeing",
+                        "location": "https://www.google.com/maps/place/A+temple+of+all+religions/@55.8005852,48.9721371,17z/data=!3m1!4b1!4m6!3m5!1s0x41595364297580f9:0x5b9181b7b8ab0f66!8m2!3d55.8005822!4d48.974712!16s%2Fm%2F0g9zkh6?entry=ttu",
+                        "image": "attractions/Kazan_church.jpg",
+                        "featured": false
+                    },
+                    {
+                        "name": "Kazan Federal University",
+                        "description": "The second oldest continuously existing tertiary education institution in Russia.",
+                        "category": "Education",
+                        "location": "https://kpfu.ru/",
+                        "image": "attractions/Kazan_Federal_University.jpg",
+                        "featured": false
+                    },
+                    {
+                        "name": "Epiphany Cathedral Bell Tower",
+                        "description": "The tallest ancient building in the city",
+                        "category": "Attraction",
+                        "location": "https://www.google.com/maps/place/Malabar/@55.799664,49.1255201,17z/data=!3m1!4b1!4m6!3m5!1s0x415ead6ae9516ff1:0x620e269c28412276!8m2!3d55.799661!4d49.128095!16s%2Fg%2F119vfntm8?entry=ttu",
+                        "image": "attractions/Epiphany_Cathedral_Bell_Tower.jpg",
+                        "featured": false
+                    }
+                    
+                ]
+            },
+            "tips": {
+                "title":"Travel Tips & Important Information",
+                "description": "Important Information and Travel tips that make your stay in Kazan more pleasant.",
+                "items": [
+                    {
+                        "name": "Public transportation",
+                        "description": "Public transport is very developed in Kazan. There are subways, buses, trolleybuses and trams."
+                    },
+                    {
+                        "name": "Accommodation",
+                        "description": "There are many well-known hotels, as well as budget-friendly hostels, also you could rent a house."
+                    },
+                    {
+                        "name": "Education",
+                        "description": "Kazan Universities are very well-known in Russia and abroad. With Study in Russia program."
+                    }
+                ]
+            },
+            "gallery": {
+                "title":"Photos Gallery",
+                "description": "Photo Gallery for best places to see in Kazan"
+            }
+            
+        }
+    },
+    "forms": {
+        "search": {
+            "placeholder": "Search events"
+        }
+    },
+    "footer": {
+        "socialmedia": {
+            "name": "Social Media",
+            "facebook": "Facebook",
+            "twitter": "Twitter",
+            "instagram": "Instagram",
+            "vk": "VK"
+        },
+        "sitemap": {
+            "name": "Sitemap"
+        }
+    },
+    "copyrights" : "2024 Kazan City. All rights reserved."
+}
